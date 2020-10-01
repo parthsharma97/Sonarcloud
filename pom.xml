@@ -23,7 +23,7 @@
  
   <properties>
     <sonar.projectKey>parthsharma97_Sonarcloud</sonar.projectKey>
-    <sonar.organization>parthsharma97:Sonarcloud</sonar.organization>
+    <sonar.organization>default</sonar.organization>
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
 </project>
