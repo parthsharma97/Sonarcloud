@@ -4,7 +4,7 @@ name: default
 steps:
 - name: build
   #image: maven:3.6.3-openjdk-11
-  image: parthsharma97/maven
+  image: parthsharma97/mav
   #settings:
     #username: parthsharma97
     #password: P@rth123$
