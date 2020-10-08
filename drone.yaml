@@ -17,5 +17,5 @@ steps:
       from_secret: sonar_token
       
 image_pull_secrets:
-- dockerconfigjson # ~/.docker/config.json file value
+- dockerconfigjson # ~/.docker/config.json file auth tag value
 
